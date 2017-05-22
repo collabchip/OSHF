@@ -1,0 +1,23 @@
+#---------------------------------------------#
+#         OSHF is a open group 
+# Our mission is to create a Simple Text File formats to describe 
+# All data representations used in Semiconductor Industry
+# We believe that with open and simple text file formats, engineers all across the globe 
+# working on Chip, Package, PCB , Fabrication and Embedded Systems can be more effecient
+# and be able to exchange information freely and more easily 
+#
+#---------------------------------------------#
+# is a comment
+// is a comment
+* is a comment
+# Format description 
+# uncommented line below represents a resitor connection between 2 nodes and its  resistance value in ohms
+# Node1 Node2 R 
+# nodes can be represented by Integers or Strings
+# the resistance value is  Integer or Floating Point number
+
+123 456 R1
+456 678 R2
+1112 567 R3
+AA BB R5
+CC DD R6
