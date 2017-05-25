@@ -1,2 +1,2 @@
 run:
-	curl -s -X POST http://52.66.189.213:8090/irdrop -F 'fileX=@nodeRMap.txt' -F 'fileY=@nodeCurrentMap.txt' -F 'fileZ=@voltageSources.txt' -F 'token=12Qwaszx'
+	curl -s -X POST http://52.66.189.213:8090/irdrop -F 'fileX=@nodeRMap.txt' -F 'fileY=@nodeCurrentMap.txt' -F 'fileZ=@voltageSources.txt' -F 'token=demo'
